@@ -1,2 +1,5 @@
 data/raw/
 data/processed/
+models/
+src/__pycache__/
+dashboard/__pycache__/
